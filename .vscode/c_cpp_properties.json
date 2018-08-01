@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.10.25017/include/*",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/um",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/winrt",
+                "${workspaceRoot}",
+                "${workspaceRoot}/include",
+                "${workspaceRoot}/include/SourceSDK",
+                "C:/MinGW/include",
+                "C:\\Users\\billy\\Desktop\\OpenVR\\headers"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.10.25017/include/*",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/um",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/shared",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/winrt",
+                    "${workspaceRoot}",
+                    "C:/MinGW/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
