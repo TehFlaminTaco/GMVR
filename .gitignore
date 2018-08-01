@@ -1,2 +1,2 @@
-example/projects
-example/build
+.vscode
+*.dll
