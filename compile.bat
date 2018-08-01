@@ -1,1 +1,1 @@
-gcc gm_gmvr.cpp -o gmcl_gmvr_win32.dll -shared -m32 -Iinclude -IC:\Users\billy\Desktop\OpenVR\headers C:\Users\billy\Desktop\OpenVR\lib\win32\openvr_api.lib
+gcc gm_gmvr.cpp -o gmcl_gmvr_win32.dll -shared -m32 -Iinclude -IOPENVR_SDK\headers OPENVR_SDK\lib\win32\openvr_api.lib
